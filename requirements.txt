@@ -1,0 +1,6 @@
+opencv-python>=4.5.1
+opencv-contrib-python>=4.5.1
+numpy>=1.19.5
+Pillow>=8.1.0
+pyserial>=3.5
+pysmtp>=1.1.11 
